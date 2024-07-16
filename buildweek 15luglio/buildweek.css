@@ -11,3 +11,12 @@
     height: 100%;
     
 }
+ion-icon {
+  width: 48px;
+  height: 48px;
+  }
+
+
+h4 {
+  font-weight: bold;
+}
